@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mpriyad25
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning go and distribution
+- 🌱 I’m currently learning go and distribution systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
